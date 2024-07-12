@@ -31,7 +31,7 @@ Location
 54.01%
 
 
-As previsões da coluna "Acessories" do perido de 01/09/2023 a 01/10/2023, foram geradas em enviadas para a pasta "datasets" com o nome do arquivo: "sigle_prediction_results.csv
+As previsões da coluna "Acessories" do perido de 01/09/2019 a 01/10/2019, foram geradas em enviadas para a pasta "datasets" com o nome do arquivo: "sigle_prediction_results.csv
 
 
 
