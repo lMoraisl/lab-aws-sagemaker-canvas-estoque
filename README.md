@@ -6,23 +6,23 @@
 
 - A análise do status do modelo foi gerado da seguinte forma:
 
-Avg. wQL
+Avg. wQL (Perda média de quantil ponderada)
 0.013 
  
-MAPE
+MAPE (Média Percentual Absoluta do Erro)
 0.025
 
-WAPE
+WAPE (Erro Percentual Absoluto Ponderado )
 0.021
 
-RMSE
+RMSE (Raiz Quadrada do Erro Médio)
 2079.610
 
-MASE
+MASE (erro escalado absoluto médio)
 0.000
 
 
-Colunas que aumentam as pontuações de precisão:
+Colunas que aumentam as pontuações de precisão no período de 1 mês:
 
 price
 45.99%
@@ -30,6 +30,8 @@ price
 Location
 54.01%
 
+
+As previsões da coluna "Acessories" do perido de 01/09/2023 a 01/10/2023, foram geradas em enviadas para a pasta "datasets" com o nome do arquivo: "sigle_prediction_results.csv
 
 
 
